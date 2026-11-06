@@ -19,5 +19,8 @@ Layouts:
 
 _Capturando seleção com COMBOBOX_
 
+```java
+
 Label opcaoLabel = new Label(string : "Escolha uma opção");
 ComboBox<String> opcoes = new ComboBox<>();
+```
