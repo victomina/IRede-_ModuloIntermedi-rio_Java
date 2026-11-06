@@ -17,3 +17,7 @@ Eventos:
 Layouts:
 
 
+_Capturando seleção com COMBOBOX_
+
+Label opcaoLabel = new Label(string : "Escolha uma opção");
+ComboBox<String> opcoes = new ComboBox<>();
